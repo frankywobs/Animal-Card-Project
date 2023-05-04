@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+#name{
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+img {
+    width:320px;
+    border:1px solid black;
+    margin:0px 0px;
+    margin-bottom: 10px;
+}
+
+.container{
+    width: 320px;
+    border: 3px solid black;
+    margin-left: 10px;
+    padding: 0 10px;
+    background-color: rgb(222, 220, 220);
+}
+
+.items{ 
+    list-style: none;
+    padding: 0px;
+}
+
+.fact{
+    border: 1px solid black;
+    padding: 0 10px;
+    margin:0, 20px;
+    font-size: 15px;
+}
+.item{
+    font-weight: bolder;
+}
+
+#factos{
+    font-style: italic;
+}
+
+.texts{
+    text-align: justify;
+}
